@@ -53,7 +53,7 @@ class BankAccount{
             System.out.println("Deposited: "+prevTrans);
         }
         else if(prevTrans<0){
-            System.out.println("Withdrawn: "+Math.abs(prevTrans));
+            System.out.println("Withdrawn: " + Math.abs(prevTrans));
         }
         else{
             System.out.println("No transaction occured");
@@ -125,6 +125,7 @@ class BankAccount{
         } while(option != 'e');
 
         System.out.println("Thank you for using our banking services");
+        
     }
 
 }
