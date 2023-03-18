@@ -4,7 +4,7 @@ This program written in Java, allows you to deal with bank accoucts and transact
 
 There should be a validation to make sure only a particular amount of cahs inflow at any time, as well as to make sure withdrawals if the balance is sufficient. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/zqXPoseZR0E)
 
 # Development Environment
 
